@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotesClient</string>
+    <string name="test_button">Test Button</string>
+</resources>
